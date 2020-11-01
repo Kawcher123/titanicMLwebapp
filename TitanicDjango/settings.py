@@ -26,7 +26,7 @@ SECRET_KEY = 'di72y0_0@xxi*0y$g-etzr$lvm_n2!i*9ate9#fgd!_6ju3_fh'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['titanicsurvival.herokuapp.com','127.0.0.1']
 
 
 # Application definition
